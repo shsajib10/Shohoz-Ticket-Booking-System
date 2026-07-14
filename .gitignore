@@ -1,0 +1,3 @@
+*.class
+data/users.txt
+data/bookings.txt
