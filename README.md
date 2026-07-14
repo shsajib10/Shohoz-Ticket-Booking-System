@@ -1,1 +1,2 @@
 # Shohoz-Ticket-Booking-System
+Shohoz is a Java Swing-based desktop ticket booking system that enables users to register, log in, and book bus, train, and air tickets through an intuitive graphical interface. The application supports route selection, travel class options, automatic fare calculation, and booking management while utilizing file handling for user authentication and data storage. It showcases practical implementation of Object-Oriented Programming, Java Swing, and event-driven application development.
